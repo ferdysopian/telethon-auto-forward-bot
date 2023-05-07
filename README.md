@@ -19,6 +19,11 @@ The following Python packages are required to run the chatbot:
 
 These packages are listed in the `requirements.txt` file and can be installed by running `pip install -r requirements.txt`.
 
+## Credits
+
+- [Telethon](https://github.com/LonamiWebs/Telethon): A Python 3 MTProto library to interact with Telegram's API as a user or through a bot account.
+- [python-dotenv](https://github.com/theskumar/python-dotenv): A zero-dependency module that loads environment variables from a .env file.
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
